@@ -1,0 +1,2 @@
+ros_adder
+-DCATKIN_DEVEL_PREFIX=/home/vagrant/Workspace/ros/CamMotor/devel -DCMAKE_INSTALL_PREFIX=/home/vagrant/Workspace/ros/CamMotor/install -G Unix Makefiles
