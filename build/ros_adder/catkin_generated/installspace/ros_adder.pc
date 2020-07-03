@@ -1,0 +1,8 @@
+prefix=/home/vagrant/Workspace/ros/CamMotor/install
+
+Name: ros_adder
+Description: Description of ros_adder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
